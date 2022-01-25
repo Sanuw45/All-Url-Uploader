@@ -1,6 +1,8 @@
 class Translation(object):
     START_TEXT = """අඩෝ {} බොක්ක,
-මම All URL Uploader!
+    
+මම All URL Uploader! මාව හැදුවේ @Sanu439.
+
 උඹට පුලුවන් upload File|Video To Telegram with direct link, Using this bot!
 Support Sites <a href="https://ytdl-org.github.io/youtube-dl/supportedsites.html">HERE</a>
 /help for more details!"""
