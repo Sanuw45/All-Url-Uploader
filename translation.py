@@ -9,8 +9,8 @@ Support Sites <a href="https://ytdl-org.github.io/youtube-dl/supportedsites.html
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    DOWNLOAD_START = "😉 <code>උඹ එව්ව එක download වෙනවා<code> 😉 "
-    UPLOAD_START = "හරි ඒක උබට එවන්නම් 😎"
+    DOWNLOAD_START = "😉 <code>දුන්න link එකේ video එක Download වෙනවා. </code> 😉 "
+    UPLOAD_START = "<code>Download උනා.  ඒක උබට එවනවා</code> 😎"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using me \n\n<b>@Sanu439 For More UsefUl Bots Like Me </b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded වීම {} seconds.\nUploaded වීම {} seconds.\n\n@TMWAD"
